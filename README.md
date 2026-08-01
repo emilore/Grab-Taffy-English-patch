@@ -34,7 +34,9 @@ CONTROLS & HOTKEYS (In-game):
 * Alt + 0 — Open the built-in translator settings menu.
 
 ------------------------------------------------------------------------
-Thanks for playing and using this patch! 
+Thanks for playing and using this patch!
+
 =w=
+
 Follow Taffy meow!
 ========================================================================
