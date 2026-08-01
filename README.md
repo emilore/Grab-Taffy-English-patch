@@ -15,9 +15,6 @@ Steam:
 
 https://steamcommunity.com/profiles/76561199208812317/
 
-BiliBili:
-
-https://space.bilibili.com/3546982819826016
 
 ------------------------------------------------------------------------
 HOW TO INSTALL:
