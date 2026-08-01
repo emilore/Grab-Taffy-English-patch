@@ -1,6 +1,7 @@
 GRAB TAFFY — ENGLISH PATCH
 =======================
 By twenny8 aka methadone with help of Google translator
+
 Version: 1.0 (Autonomous / No Internet Required)
 
 -----------------------
