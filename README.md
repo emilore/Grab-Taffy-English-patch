@@ -1,12 +1,11 @@
-========================================================================
-                      GRAB TAFFY — ENGLISH PATCH
-========================================================================
+GRAB TAFFY — ENGLISH PATCH
+=======================
 By twenny8 aka methadone with help of Google translator
 Version: 1.0 (Autonomous / No Internet Required)
 
-------------------------------------------------------------------------
+-----------------------
 DESCRIPTION:
-------------------------------------------------------------------------
+-----------------------
 This patch fully translates the game "Grab Taffy" from Chinese to English.
 It converts user interface, main menus, and in-game dialogues. 
 If you find any untranslated text, feel free to contact me:
