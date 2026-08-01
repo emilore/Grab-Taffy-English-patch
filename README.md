@@ -20,13 +20,7 @@ https://steamcommunity.com/profiles/76561199208812317/
 HOW TO INSTALL:
 ------------------------------------------------------------------------
 1. Download this archive and open it.
-2. Copy ALL files and folders from the archive:
-   - [BepInEx] (folder)
-   - [dotnet] (folder)
-   - .doorstop_version
-   - baselib.dll
-   - doorstop_config.ini
-   - winhttp.dll
+2. Copy ALL files and folders from the archive (press CTRL + A)
 3. Paste these files directly into your game's main root folder 
    (The folder where "GrabTaffy.exe" is located).
 To find this folder, go to your Steam library, choose this game and press:
